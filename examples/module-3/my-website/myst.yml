@@ -2,9 +2,9 @@
 version: 1
 
 project:
-  title: "GeoJupyter Workshop - CSDMS 2025 - MY-USERNAME"
+  title: "GeoJupyter Workshop - CSDMS 2025 - mcflugen"
   description: "My exercises from the GeoJupyter workshop at the CSDMS 2025 Annual Meeting"
-  # github: "MY-USERNAME/workshop-csdms2025-exercises"
+  github: "mcflugen/workshop-csdms-exercises"
   license: "MIT"
   jupyter:  # Enable computation
     lite: true
